@@ -1,1 +1,2 @@
-message: Hello
+#spring.datasource.driver-class-name=com.
+spring.datasource.url=mongodb://localhost:27017
